@@ -15,5 +15,5 @@ USAGE:
 1. Download apk here: https://drive.google.com/open?id=1Ec6MjDtuk2FAVYyWeqrGVSYhKEQVFKDn
 2. Install on android Device.
 3. Click 'Ask alexa'
-5. Start speeking.
+5. Start speaking.
 6. Output will be in the form of toast of your spoken text.
